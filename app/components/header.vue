@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <p>Header</p>
-    </div>
+  <div>
+    <p>Header</p>
+  </div>
 </template>

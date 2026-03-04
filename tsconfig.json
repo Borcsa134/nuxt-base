@@ -16,7 +16,9 @@
     }
   ],
   "compilerOptions": {
-    "types": ["vitest/globals"],
+    "target": "es2022",
+    "module": "commonjs",
+    "types": ["vitest/globals"]
   },
   "include": ["app", "test"]
 }

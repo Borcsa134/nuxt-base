@@ -1,3 +1,3 @@
 <template>
-    <p>Index page</p>
+  <p class="px-2">Index page</p>
 </template>

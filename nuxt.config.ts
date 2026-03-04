@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxt/test-utils/module']
-})
+  modules: ['@nuxt/content', '@nuxt/test-utils/module', '@nuxt/eslint', '@nuxtjs/tailwindcss'],
+});

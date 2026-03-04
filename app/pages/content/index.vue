@@ -1,6 +1,5 @@
 <script setup lang="ts">
-const { data: base } = await useAsyncData(() => queryCollection('content').path('/base').first())
-
+const { data: base } = await useAsyncData(() => queryCollection('content').path('/base').first());
 </script>
 
 <template>
